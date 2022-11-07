@@ -1,5 +1,4 @@
 # written by James Carvell in python 3.6
-# to be run from a terminal
 # should ask for a string from user, count the vowels, and return # of vowels
 
 # taking the user input
